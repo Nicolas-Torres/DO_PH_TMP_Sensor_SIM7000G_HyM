@@ -1,0 +1,25 @@
+DOMINIO: http://...
+
+RUTA DE INSTALACION DE PROGRAMAS : 
+> sudo su
+PATH: root@ip...../
+
+MQTT:
+user: 
+pass: 
+
+PHPMYADMIN: 
+http://..../phpmyadmin/	 
+user: 
+pass: 
+
+NODE-RED (backend): http://...:1880/		  
+user: 
+pass: 
+hash: 
+
+DASHBOARD (frontend): http://...:1880/ui		
+user: 
+pass: 
+hash: 
+
