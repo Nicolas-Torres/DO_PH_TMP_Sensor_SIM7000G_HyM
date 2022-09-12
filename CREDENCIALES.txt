@@ -1,25 +1,34 @@
+USUARIO AWS: 
+user: menriquez1944@icloud.com
+pass: Mikrotik2021
+
 DOMINIO: http://...
 
+
+Ubuntu user:
+User: menriquez
+pass: Mikrotik2021
+
 RUTA DE INSTALACION DE PROGRAMAS : 
-> sudo su
-PATH: root@ip...../
+>
+PATH: 
 
 MQTT:
-user: 
-pass: 
+user: sammy
+pass: HyMServer@21
 
 PHPMYADMIN: 
 http://..../phpmyadmin/	 
-user: 
-pass: 
+user: root
+pass: mikrotik2021
 
 NODE-RED (backend): http://...:1880/		  
-user: 
-pass: 
+user: admin@HyM
+pass: HyMServer@21
 hash: 
 
 DASHBOARD (frontend): http://...:1880/ui		
-user: 
-pass: 
+user: admin
+pass: FundoTabacal
 hash: 
 
