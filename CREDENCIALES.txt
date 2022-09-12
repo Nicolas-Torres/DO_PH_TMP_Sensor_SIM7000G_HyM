@@ -2,12 +2,12 @@ USUARIO AWS:
 user: menriquez1944@icloud.com
 pass: Mikrotik2021
 
-DOMINIO: http://...
+DOMINIO: ec2-3-16-154-178.us-east-2.compute.amazonaws.com
 
 
 Ubuntu user:
-User: menriquez
-pass: Mikrotik2021
+User: sammy
+pass: 12345678
 
 RUTA DE INSTALACION DE PROGRAMAS : 
 >
@@ -20,7 +20,7 @@ pass: HyMServer@21
 PHPMYADMIN: 
 http://..../phpmyadmin/	 
 user: root
-pass: mikrotik2021
+pass: HyMServer@21
 
 NODE-RED (backend): http://...:1880/		  
 user: admin@HyM
